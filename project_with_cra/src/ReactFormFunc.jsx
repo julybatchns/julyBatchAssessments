@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const App = () => {
+const ReactFormFunc = () => {
   const [userName, setUserName] = useState("");
   const [password, setPassword] = useState("");
   const [allEntry, setAllEntry] = useState([]);
@@ -60,4 +60,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default ReactFormFunc;
