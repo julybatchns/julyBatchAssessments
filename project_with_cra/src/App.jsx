@@ -1,10 +1,10 @@
 import React from "react";
-import RenderingListFunc from "./RenderingListFunc";
+import TopperListFunc from "./TopperListFunc";
 
 const App = () => {
   return (
     <div>
-      <RenderingListFunc />
+      <TopperListFunc />
     </div>
   );
 };
