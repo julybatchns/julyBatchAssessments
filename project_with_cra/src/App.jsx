@@ -1,10 +1,10 @@
 import React from "react";
-import TopperListFunc from "./TopperListFunc";
+import Shop from "./Shop";
 
 const App = () => {
   return (
     <div>
-      <TopperListFunc />
+      <Shop />
     </div>
   );
 };
