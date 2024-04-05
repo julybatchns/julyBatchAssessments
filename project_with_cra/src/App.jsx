@@ -1,10 +1,10 @@
 import React from "react";
-import Shop from "./Shop";
+import TriviaGames from "./TriviaGames";
 
 const App = () => {
   return (
     <div>
-      <Shop />
+      <TriviaGames />
     </div>
   );
 };
