@@ -1,0 +1,13 @@
+h2 {
+  margin: 0;
+  padding: 0;
+  align-self: center;
+
+  display: flex;
+  justify-items: center;
+}
+.divimage {
+  background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
+  height: 400px;
+  width: 600px;
+}

@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.login-div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 5% 35% 0;
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+}
+
+div.username-div,
+div.password-div {
+  margin-bottom: 15px;
+}
+
+button.login-btn {
+  cursor: pointer;
+}
+
+p.error-message {
+  color: red;
+}
+
+div.dashboard {
+  text-align: center;
+}

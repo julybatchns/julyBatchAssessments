@@ -1,0 +1,35 @@
+.divcircle {
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  /* background-color: blue; */
+  border-radius: 50%;
+}
+.divsquare {
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  /* background-color: blue; */
+  /* border-radius: 50%;  */
+}
+h2 {
+  margin: 0;
+  padding: 0;
+  align-self: center;
+
+  display: flex;
+  justify-items: center;
+}
+.empty {
+  visibility: hidden;
+}
